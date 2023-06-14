@@ -11,7 +11,7 @@ Your data is completely untouched. Feel free to look at the code if you don't tr
 ## What changed?
 - [ ] Titlebar is completely removed.
 - [ ] ^ This will push the top of the sidebar to the top so we would add a divide with a height of 20px.
-- [ ] Add like, 2px to the sidebar so it aligns up with the traffic light buttons.
+- [ ] Add like, 4px to the sidebar so it aligns up with the traffic light buttons.
 - [ ] Make most of the top elements draggable.
 
 ## Screenshot
