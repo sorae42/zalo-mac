@@ -1,9 +1,7 @@
 ## Why?
-The Zalo app on macOS has some styling issue that make it look less like a macOS app, and this will change that.
+The Zalo app on macOS has some styling issue that make it look less like a macOS app, and this will change that. (Yes, details are my pet peeves)
 
 This is not intended for browser or Windows app. You don't have to use this if you are happy with the appearance of the app.
-
-Also, this is not an attempt to make Zalo a native macOS app. Through it'd be nice if one actually exists instead of this bloated Electron app.
 
 ## What about my data?
 Your data is completely untouched. Feel free to look at the code if you don't trust the app. Or don't use this, at all.
