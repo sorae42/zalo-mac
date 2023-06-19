@@ -9,3 +9,6 @@ m.style.width = "68px";
 tl.style.height = "18px";
 m.children[0].insertAdjacentElement("afterbegin", tl);
 m.children[1].style.paddingBottom = "6px";
+
+document.getElementById("chatOnboard").style.webkitAppRegion = "drag";
+
